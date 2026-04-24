@@ -2,7 +2,7 @@
 
 Hello young Padawans,
 
-This repo was created to accompany you in the adventure of solving the exercises of the "Programmieren 1" course, which is a long and tiring journey. So, this is a haven where you can take shelter when you feel lost in the magical world of codes. 🚢
+This repo was created to accompany you in the adventure of solving the exercises of the "Programmieren 1" course, which is a long and tiring journey. So, this is a haven where you can take shelter when you feel lost in the magical world of codes. 
 
 What Will You Find? 🧐
 
@@ -10,7 +10,7 @@ Here you will find solutions to exercises you may encounter within the scope of 
 
 Important note! 📝
 
-This repo is not a "mystery projects library". So, you won't find life-changing or world-saving projects here. I am only sharing the solutions of the exercises within the scope of the course. But who knows, maybe you'll be inspired by these solutions and create something that will truly change the world! 🌍
+This repo is not a "mystery projects library". So, you won't find life-changing or world-saving projects here. I am only sharing the solutions of the exercises within the scope of the course. But who knows, maybe you'll be inspired by these solutions and create something that will truly change the world!
 
 Did You Find An Error? 🕵️
 
