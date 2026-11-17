@@ -1,23 +1,46 @@
-# Programmieren 1 - Exercise Solutions
+# Programmieren 1 – Übungslösungen
 
-Hello young Padawans,
+My solutions to the weekly exercises (Übungen) of the module **Programmieren 1**, part of the curriculum of the **Fakultät Informatik und Wirtschaftsinformatik (FIW)** at the **Technische Hochschule Würzburg-Schweinfurt (THWS)**.
 
-This repo was created to accompany you in the adventure of solving the exercises of the "Programmieren 1" course, which is a long and tiring journey. So, this is a haven where you can take shelter when you feel lost in the magical world of codes. 
+All solutions are written in **Java**.
 
-What Will You Find? 🧐
+> Hello young Padawans 👋 This repo is meant to keep you company on the long road through Programmieren 1. Use it as a lighthouse, not as an autopilot: try each exercise yourself first, then compare.
 
-Here you will find solutions to exercises you may encounter within the scope of the course. But remember, what you see here are not absolute and immutable facts! Writing code is an art, and like every art, it has many different interpretations and techniques. The solutions here are just suggestions, in other words, they are a beacon that will guide you on this long road.
+## Contents
 
-Important note! 📝
+The code is in the [`programmieren_1/`](programmieren_1) folder, sorted by lecture (Lektion):
 
-This repo is not a "mystery projects library". So, you won't find life-changing or world-saving projects here. I am only sharing the solutions of the exercises within the scope of the course. But who knows, maybe you'll be inspired by these solutions and create something that will truly change the world!
+| Folder | Topic |
+| --- | --- |
+| `lektion1` | First programs, console output |
+| `lektion3` | Data types, `boolean` and logical operators, the conditional operator, `char`, comparing strings (`compareTo` / `equals`) |
+| `lektion4` | Loops (`while`, `do-while`, `for`) |
+| `lektion5` | Control structures, practice |
+| `lektion6` | Methods, recursion |
+| `lektion7` | Numerical methods (e.g. approximating the sine with a series) |
+| `lektion8` | Arrays and first classes |
+| `lektion9` | Classes and objects (`Auto`, `Pizza`, `Raum`) |
+| `lektion10` | Static members, object interaction (`Student`, `Uhr`, `Auto`) |
+| `lektion11` | Two-dimensional arrays / matrices |
+| `lektion12` | Linked lists (`Knoten`, `Lotto`) |
+| `klausursuebungen` | Old exam questions (Altklausuren) and exam practice, e.g. SS20, a linked list, `Kurs` / `Mitglied` |
+| `uebungen` | Extra exercises |
 
-Did You Find An Error? 🕵️
+## A word of caution 📝
 
-Every human being makes mistakes, and yes, I am human too (for now!). So if you find any errors in the solutions or would like to suggest a different solution, please feel free to contact me. Together, we can work to make this repo an even better resource. You can use my email address for communication.
+- These are **my own solutions**, not official ones from the faculty. Writing code is a craft with many valid approaches, so treat what you see here as one suggestion, not as the only correct answer.
+- Some comments in the code are in Turkish. They are notes I wrote for myself while learning.
+- The exercise sheets belong to the lecturers and are not included here; this repo only contains the solutions.
+- Use the solutions for learning and comparing, and stick to the academic integrity rules of THWS for graded work.
 
-Last Words 🎤
+## Found a mistake? 🕵️
 
-This repo was created to help you. I hope your time here will be both educational and enjoyable. Remember, the challenges you face in your programming journey make you stronger. That's why every mistake you make can actually be your greatest teacher.
+I'm human too (for now). If you find a bug or have a better solution, feel free to open an issue or a pull request.
 
-Have fun, young Jedi! May the code be with you! 🚀
+## Related
+
+- [Programmieren 2 – Übungslösungen](https://github.com/atillaoezdemir/programmieren_2)
+
+---
+
+Have fun, young Jedi. May the code be with you! 🚀
