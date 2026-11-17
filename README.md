@@ -8,7 +8,7 @@ All solutions are written in **Java**.
 
 ## Contents
 
-The code is in the [`programmieren_1/`](programmieren_1) folder, sorted by lecture (Lektion):
+The code is sorted by lecture (Lektion):
 
 | Folder | Topic |
 | --- | --- |
